@@ -1,6 +1,6 @@
-int led1 = 2;
-int led2 = 7;
-int led3 = 8;
+#define led1 = 2;
+#define led2 = 7;
+#define led3 = 8;
 
 void setup() {
   pinMode(led1, OUTPUT);
